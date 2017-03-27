@@ -1,0 +1,4 @@
+Implement SON algorithm “son.py” in Apache Spark using Python. 
+Given a set of baskets, SON algorithm divides them into chunks/partitions and then proceed in two stages. 
+First, local frequent itemsets are collected, which form candidates; 
+Next, it makes second pass through data to determine which candidates are globally frequent.
