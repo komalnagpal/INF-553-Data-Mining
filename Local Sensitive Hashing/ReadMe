@@ -1,1 +1,2 @@
 
+Local Sensitive Hashing Algorithm using Spark to find similar users, based on the fraction of the movies they have watched in common.
