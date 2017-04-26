@@ -1,0 +1,2 @@
+1) Implement the incremental UV decomposition algorithm
+2) parallel implementation of ALS (alternating least squares) algorithm in Spark
